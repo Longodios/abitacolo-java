@@ -40,6 +40,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
@@ -97,6 +98,9 @@
 			<version>0.11.2</version> <!-- Reemplaza con la última versión disponible -->
 			<scope>runtime</scope>
 		</dependency>
+
+
+
 	</dependencies>
 
 	<build>

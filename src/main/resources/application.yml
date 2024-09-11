@@ -1,0 +1,10 @@
+server:
+  port: 1433
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/abitacolo
+    username: postgres
+    password: admin
+  jpa:
+    hibernate:
+      ddl-auto: update
